@@ -13,26 +13,20 @@
 > From http://en.wikipedia.org/wiki/Skill
 
 
-The use of skills, requires time, energy and ultimately knowledge. Money is **not** a prerequisite. The supported system, modelled around skills trade, would allow its users to exchange services on a contract basis. The "purchase" power of the users remains decentralized.
+
+## the problem:
+
+Our soceity relies on money for normal functioning. Money is **not** the problem. But the source of money is centralized and controlled by less than 5% of the world population. These powerful individuals have the ultimate power to build and destroy our way of living.
+
+\* citation needed
 
 
+<!-- .slide: data-background="/res/federal-reserve-bank.jpg" data-background-size="600px" -->
 
-## features of supporting system:
 
-1. open-source: owned by the community <!-- .element: class="fragment" data-fragment-index="1" -->
-1. decentralized: run by the community <!-- .element: class="fragment" data-fragment-index="2" -->
-1. free: for the community <!-- .element: class="fragment" data-fragment-index="3" -->
+## the solution:
 
-Note:
-1. open-source
-    - the future of the system is determined by the community
-    - no single entity controls the development of the system
-    - allows use of an open-governance model
-1. decentralized
-    - distributed, by design, like Bitcoin
-    - can be run by volunteers, for greater good of the rest of users
-1. free
-    - lower entry level for new users
+The use of skills, requires time, energy and ultimately knowledge. Money is **not** a prerequisite. The supported system, modeled around skills trade, would allow its users to exchange services on a contract basis. The purchase power of the users remains decentralized.
 
 
 
@@ -56,3 +50,48 @@ Note:
 1. Lack of store of value
     - being able to save
     - solution: none yet!
+
+
+
+## features of supporting system:
+
+1. open-source: owned by the community <!-- .element: class="fragment" data-fragment-index="1" -->
+1. decentralized: run by the community <!-- .element: class="fragment" data-fragment-index="2" -->
+1. free: for the community <!-- .element: class="fragment" data-fragment-index="3" -->
+
+Note:
+1. open-source
+    - the future of the system is determined by the community
+    - no single entity controls the development of the system
+    - allows use of an open-governance model
+1. decentralized
+    - distributed, by design, like Bitcoin
+    - can be run by volunteers, for greater good of the rest of users
+1. free
+    - lower entry level for new users
+
+
+
+## benefits of the system:
+
+1. reduction of unemployment <!-- .element: class="fragment" data-fragment-index="1" -->
+1. decentralized source of purchase power <!-- .element: class="fragment" data-fragment-index="2" -->
+
+
+
+## resources:
+
+1. Code contribution and collaboration <!-- .element: class="fragment" data-fragment-index="1" -->
+1. Open forum and governance <!-- .element: class="fragment" data-fragment-index="2" -->
+
+
+
+## internal constraints:
+
+1. Funding
+
+
+## external constraints:
+
+1. General adoption  <!-- .element: class="fragment" data-fragment-index="1" -->
+1. Government policies: taxes, etc.  <!-- .element: class="fragment" data-fragment-index="2" -->
