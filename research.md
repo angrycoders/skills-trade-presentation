@@ -2,6 +2,15 @@
 
 
 
+## attribution:
+
+* Felix Magani
+* Steve Oginga
+* Kelvin Korir
+* Gocho Mugo
+
+
+
 ## introduction:
 
 **Skills Trade** is a form of barter trade, scoped to skills.
@@ -83,15 +92,24 @@ Note:
 
 1. Code contribution and collaboration <!-- .element: class="fragment" data-fragment-index="1" -->
 1. Open forum and governance <!-- .element: class="fragment" data-fragment-index="2" -->
+1. Donation and Fund-raising <!-- .element: class="fragment" data-fragment-index="3" -->
 
 
 
 ## internal constraints:
 
-1. Funding
+1. Funding <!-- .element: class="fragment" data-fragment-index="1" -->
 
 
 ## external constraints:
 
 1. General adoption  <!-- .element: class="fragment" data-fragment-index="1" -->
 1. Government policies: taxes, etc.  <!-- .element: class="fragment" data-fragment-index="2" -->
+
+
+
+## references:
+
+
+
+# Skills Trade
