@@ -39,7 +39,7 @@ The use of skills, requires time, energy and ultimately knowledge. Money is **no
 
 
 
-## solving barter trade's limitations:
+Skills trade, being a subset of barter trade, is not faced strongly with barter trade's limitations.
 
 1. Lack of double coincidence of wants <!-- .element: class="fragment" data-fragment-index="1" -->
 1. Division issues <!-- .element: class="fragment" data-fragment-index="2" -->
