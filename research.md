@@ -25,7 +25,7 @@
 
 ## the problem:
 
-Our soceity relies on money for normal functioning. Money is **not** the problem. But the source of money is centralized and controlled by less than 5% of the world population. These powerful individuals have the ultimate power to build and destroy our way of living.
+Our society relies on money for normal functioning. Money is **not** the problem. But the source of money is centralized and controlled by less than 5% of the world population. These powerful individuals have the ultimate power to build and destroy our way of living.
 
 \* citation needed
 
