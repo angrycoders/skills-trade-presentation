@@ -4,9 +4,9 @@
 
 ## attribution:
 
-* Felix Magani
-* Steve Oginga
-* Kelvin Korir
+* Felix Andego
+* Steven Oginga
+* Kevin Korir
 * Gocho Mugo
 
 
