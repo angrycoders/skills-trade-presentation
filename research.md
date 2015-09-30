@@ -110,6 +110,13 @@ Note:
 
 ## references:
 
+1. Skill Definition: http://en.wikipedia.com/wiki/Skill
+1. Barter: http://www.wikiwand.com/en/Barter
+1. Similar systems:
+    * Grand Central Barter: http://www.grandcentralbarter.com/
+    * Swap-A-Skill: http://www.swapaskill.com/
+    * Skill Exchange: http://skillexchangeuk.org/
+
 
 
 # Skills Trade
