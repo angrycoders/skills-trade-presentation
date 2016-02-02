@@ -33,7 +33,7 @@ Our society relies on money for normal functioning. Money is **not** the problem
 <!-- .slide: data-background="/res/federal-reserve-bank.jpg" data-background-size="600px" -->
 
 
-## the solution:
+## the (possible) solution:
 
 The use of skills, requires time, energy and ultimately knowledge. Money is **not** a prerequisite. The supported system, modeled around skills trade, would allow its users to exchange services on a contract basis. The purchase power of the users remains decentralized.
 
