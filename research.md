@@ -25,9 +25,9 @@
 
 ## the problem:
 
-Our society relies on money for normal functioning. Money is **not** the problem. But the source of money is centralized and controlled by less than 5% of the world population. These powerful individuals have the ultimate power to build and destroy our way of living.
+Our society relies on money for normal functioning.The decreasing strength of our currency has resulted o a higher cost of living which limits the unemployed and the poor from receiving money-geared services.
 
-\* citation needed
+Reference: http://www.tradingeconomics.com/kenya/unemployment-rate
 
 
 <!-- .slide: data-background="/res/federal-reserve-bank.jpg" data-background-size="600px" -->
