@@ -86,9 +86,9 @@ Note:
 
 1. reduction of unemployment <!-- .element: class="fragment" data-fragment-index="1" -->
 1. decentralized source of purchase power <!-- .element: class="fragment" data-fragment-index="2" -->
-2. dissolving barriers of social and financial exclusion <!-- .element: class="fragment" data-fragment-index="2" -->
-3. enhancing people's skills <!-- .element: class="fragment" data-fragment-index="2" -->
-4. supporting local economies and benefiting the environment <!-- .element: class="fragment" data-fragment-index="2" -->
+1. dissolving barriers of social and financial exclusion <!-- .element: class="fragment" data-fragment-index="2" -->
+1. enhancing people's skills <!-- .element: class="fragment" data-fragment-index="2" -->
+1. supporting local economies and benefiting the environment <!-- .element: class="fragment" data-fragment-index="2" -->
 
 
 
