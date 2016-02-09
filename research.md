@@ -34,6 +34,7 @@ Reference: http://www.tradingeconomics.com/kenya/unemployment-rate
 
 
 ## the (possible) solution:
+> Your most valuable asset is you – your knowledge, your skills, your time
 
 The use of skills, requires time, energy and ultimately knowledge. Money is **not** a prerequisite. The supported system, modeled around skills trade, would allow its users to exchange services on a contract basis. The purchase power of the users remains decentralized.
 
