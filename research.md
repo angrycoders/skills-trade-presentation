@@ -116,6 +116,7 @@ Note:
 
 1. Skill Definition: http://en.wikipedia.com/wiki/Skill
 1. Barter: http://www.wikiwand.com/en/Barter
+1. Bitcoin:A Peer to Peer Electronic Cash System,October 31, 2008 by Satoshi Nakamoto
 1. Similar systems:
     * Grand Central Barter: http://www.grandcentralbarter.com/
     * Swap-A-Skill: http://www.swapaskill.com/
